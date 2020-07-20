@@ -1,0 +1,26 @@
+.top
+{
+    text-align: center;
+}
+
+.min, .sec, .msec  
+{
+ display: inline-block; 
+ margin: 5px;  
+}
+
+.clockdiv
+{
+    margin: 5px 0px 0px 0px;
+}
+
+.btndiv
+{
+    margin: 120px 0px 0px 0px;
+    
+}
+
+.para
+{
+    margin: -175px 0px 0px 0px;
+}
